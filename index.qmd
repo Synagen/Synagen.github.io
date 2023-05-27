@@ -1,5 +1,5 @@
 ---
-title: "Synagen.github.io"
+title: "A Blog about Artificial Intelligence"
 listing:
   contents: posts
   sort: "date desc"

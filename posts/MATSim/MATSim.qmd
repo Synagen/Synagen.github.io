@@ -1,0 +1,14 @@
+---
+title: "Intro to MATSim"
+author: AgentZizi
+date: 2024-08-23
+categories: [news, code, software]
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+What do you know about MATSim?
+
+# Intro

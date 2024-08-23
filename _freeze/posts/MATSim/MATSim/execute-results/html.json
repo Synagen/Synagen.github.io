@@ -1,0 +1,12 @@
+{
+  "hash": "077bb8945b799c19adfa14414c2dfd5a",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Intro to MATSim\"\nauthor: AgentZizi\ndate: 2024-08-23\ncategories: [news, code, software]\nformat:\n  html:\n    code-fold: true\njupyter: python3\n---\n\n\nWhat do you know about MATSim?\n\n# Intro\n\n",
+    "supporting": [
+      "MATSim_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

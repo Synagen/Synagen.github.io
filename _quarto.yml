@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Synagen"
+  google-analytics: "G-GTQ80E50EZ"
+  cookie-consent: true
   navbar:
     right:
       - about.qmd

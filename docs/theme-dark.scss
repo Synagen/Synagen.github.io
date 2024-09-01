@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #161313;
+$body-color: white;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+/*-- scss:rules --*/
+// code block output
+pre code {
+    color: white;
+}
+.termsfeed-com---palette-light .cc-pc-head-lang select {
+    background-color: white;
+    color: black;
+}

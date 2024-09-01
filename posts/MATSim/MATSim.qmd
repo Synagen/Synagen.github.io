@@ -2,7 +2,8 @@
 title: "Intro to MATSim"
 author: AgentZizi
 date: 2024-08-23
-categories: [news, code, software]
+categories: [code, software]
+image: "matsim_logo.jpg"
 format:
   html:
     code-fold: true

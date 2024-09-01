@@ -12,13 +12,16 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Synagen
 format:
   html:
-    theme: united
-    css: styles.css
-
+    theme: 
+      light: united
+      dark: [united, theme-dark.scss]
+    css: 
+    - styles.css
+    - theme-dark.scss
+    include-in-header:
+      - toggle.js
 
 

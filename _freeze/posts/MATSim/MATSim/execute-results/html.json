@@ -1,8 +1,8 @@
 {
-  "hash": "7b4f828041c191c53361cf1aa5ef3988",
+  "hash": "317e0a64055355acd36a11a13e1d0e99",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"Intro to MATSim\"\nauthor: AgentZizi\ndate: 2024-08-23\ncategories: [news, code, software]\nformat:\n  html:\n    code-fold: true\njupyter: python3\n---\n\n\nWhat do you know about MATSim?\n\n# Intro\n\nhenlo frienii\n\n",
+    "markdown": "---\ntitle: \"Intro to MATSim\"\nauthor: AgentZizi\ndate: 2024-08-23\ncategories: [code, software]\nimage: \"matsim_logo.jpg\"\nformat:\n  html:\n    code-fold: true\njupyter: python3\n---\n\n\nWhat do you know about MATSim?\n\n# Intro\n\nhenlo frienii\n\n",
     "supporting": [
       "MATSim_files"
     ],

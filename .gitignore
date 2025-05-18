@@ -3,3 +3,4 @@ movies
 
 /.quarto/
 /.ipynb_checkpoints/
+*.RData
